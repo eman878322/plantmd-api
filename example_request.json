@@ -1,0 +1,7 @@
+{
+  "crop": "wheat",
+  "disease": "stripe rust",
+  "severity_percent": 18.7,
+  "environment": {"temperature_c": 22, "humidity_pct": 80},
+  "farmer_notes": "Yellow-orange stripes appeared on lower leaves."
+}
